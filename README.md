@@ -1,2 +1,2 @@
 # Transformers for NLP
-Basic using Transformer for some tasks
+Using Transformer for some tasks.\
